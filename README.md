@@ -13,4 +13,8 @@
 
 ![image](https://github.com/jessicacosta07/pokedex/assets/65916297/73c32f33-8e10-436e-8949-f94510eca0f4)
 
+### References
+
+https://www.pokemon.com/br/pokedex/
+
 
